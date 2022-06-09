@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622980195663",
+    "project_id": "pmt-app-275be",
+    "storage_bucket": "pmt-app-275be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622980195663:android:1dcb9693bb37fab379913a",
+        "android_client_info": {
+          "package_name": "com.pmt_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622980195663-nv7sge7a1j6qt7oct43kuuruelp73eoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvfYzEPFJiBUwQUfT5SsABOd6RW1ePIGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622980195663-nv7sge7a1j6qt7oct43kuuruelp73eoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
