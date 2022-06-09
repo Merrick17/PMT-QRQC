@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest # using ubuntu latest version / or you can use a specific version
     steps:
       - name: work around permission issue
-        run: git config --global --add safe.directory /__w/PMT-QRQC/PMT-QRQC
+        run: git config --global --add safe.directory /workspace/PMT-QRQC/PMT-QRQC
       - name: Check out Git repository # clone the repo to local ci workspace
         uses: actions/checkout@v2
       - name: Set up our JDK environment # setup JDK environment: mandatory as we need to build  android project
